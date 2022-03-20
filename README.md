@@ -1,6 +1,18 @@
 # Meet Marker
 Marker is a simple and clean markdown editor in the browser.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Features](#features)
+- [Tech](#tech)
+- [Get started](#get-started)
+- [Author](#author)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Features
 - Built-in **Dark** theme
 - **Safe** - Equipped with a HTML sanitizer to prevent XSS attacks.
