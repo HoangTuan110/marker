@@ -69,7 +69,7 @@ function Main() {
 				m("a", {href: "#!/about"}, "About"),
 				m("p", "A simple and clean Markdown editor."),
 				m("textarea", {
-					rows: "25",
+					rows: "20",
 					placeholder: "Type your markdown here...",
 					value: state.markdown,
 					autofocus: true,
