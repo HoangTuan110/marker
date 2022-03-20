@@ -10,7 +10,7 @@ Features:
 - Built-in **Dark** theme
 - **Safe** - Equipped with a HTML sanitizer to prevent XSS attacks.
 - **Lightweight** (Kinda) - The bundled JS file is < 100kb.
-- **Fast** - Load almost instantly.
+- **Fast** - Load almost instantly and high Lighthouse score.
 - **Easy to use** - Just type your markdown and hit \`Preview\`.
 
 # Tech
