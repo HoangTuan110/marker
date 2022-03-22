@@ -16,7 +16,6 @@ Marker is a simple and clean markdown editor in the browser.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Features
-- Built-in **Dark** theme
 - **Safe** - Equipped with a HTML sanitizer to prevent XSS attacks.
 - **Lightweight** (Kinda) - The bundled JS file is under 100kb.
 - **Fast** - Load almost instantly.
