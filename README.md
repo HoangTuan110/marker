@@ -27,7 +27,7 @@ Marker uses the following to work properly:
 - [Marked](https://marked.js.org) - Markdown-to-HTML converter
 - [DOMPurify](https://github.com/cure53/DOMPurify) - Sanitize HTML output
 - [ESbuild](https://esbuild.github.io) - Bundle the JS file
-- [Water.css](https://watercss.kognise.dev/) - Black theme
+- [Water.css](https://watercss.kognise.dev/) - Light theme
 - [Bitter](https://fonts.google.com/specimen/Bitter) - Newspaper-style font
 
 # Get started
