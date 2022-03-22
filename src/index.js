@@ -7,7 +7,6 @@ const about_text = `
 Marker is a simple, clean, and functional markdown editor.
 
 Features:
-- Built-in **Dark** theme
 - **Safe** - Equipped with a HTML sanitizer to prevent XSS attacks.
 - **Lightweight** (Kinda) - The bundled JS file is < 100kb.
 - **Fast** - Load almost instantly and high Lighthouse score.
