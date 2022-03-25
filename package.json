@@ -12,7 +12,8 @@
     "mithril": "^2.0.4"
   },
   "scripts": {
-    "build": "esbuild --bundle src/index.js --outdir=dist --minify --sourcemap"
+    "build": "esbuild --bundle src/index.js --outdir=dist --minify --sourcemap",
+    "serve": "serve"
   },
   "devDependencies": {
     "esbuild": "^0.14.27",
