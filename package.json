@@ -13,5 +13,8 @@
   },
   "scripts": {
     "build": "esbuild --bundle src/index.js --outdir=dist --minify --sourcemap"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.27"
   }
 }
