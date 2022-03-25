@@ -1,0 +1,17 @@
+{
+  "name": "Marker",
+  "version": "0.1",
+  "description": "A minimal Markdown editor",
+  "main": "index.js",
+  "author": "Dang Hoang Tuan (@HoangTuan110)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dompurify": "^2.3.6",
+    "marked": "^4.0.12",
+    "mithril": "^2.0.4"
+  },
+  "scripts": {
+    "build": "esbuild --bundle src/index.js --outdir=dist --minify --sourcemap"
+  }
+}
